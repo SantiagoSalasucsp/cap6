@@ -1,0 +1,13 @@
+Capítulo 6 
+
+Primeramente, esta capitulo empieza con el tema de funciones, podemos ver las ventajas de usar funciones, podríamos ver una función como una serie de instrucciones muy 
+bien detallas y sin ambigüedades, donde tenemos una función que llaman a funciones y esas pueden llamar a mas, sin que la principal lo sepa, además no sirven para la 
+reducción de código y optimización de este, primeramente podemos ver que tenemos el prototipo de la función, esta es la primera declaración de una función donde ponemos 
+el tipo que retorna el nombre y las variables que tenemos que ingresar a esta, en esta parte solo hay eso, luego están toda la declaración de la función, luego podemos 
+ver que las galerías tiene muchas funciones ya implementadas y los nombres de las galerías nos dan ideas de las cosas que pueden hacer, poniendo el ejemplo de una 
+galería muy usada seria la iostream, que contiene prototipos de funciones para la entrada y salida estándar de C++, luego tenemos ejemplos de cómo usar unas galerías, 
+como usar funciones de estas, tanto matemáticas como galerías que nos ayudan a obtener números random donde podemos poner los parámetros de este, además nos explica unos 
+errores comunes que se cometen o se omiten, uno de los mas resaltantes seria, en unas de las galerías te deja hacer operaciones, pero tu puedes poner números con 
+decimales y no te va saltar ningún error y si te hace la operación, pero truncada y eso puede afectar bastante al resultado, luego tenemos el tema de paspo por valor
+y paso por referencia, donde nos explican las ventajas y desventajas de cada uno y como usar el paso por referencia, después nos muestran que es y como se hace las 
+sobrecargas con funciones que aprender esto, nos trae bastante flexibilidad y por ultimo tenemos la explicación de recursividad y la serie Fibonacci.  
